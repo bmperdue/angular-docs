@@ -16,6 +16,9 @@ You can learn more about the Apollo project at the project's [home page](http://
 <h2 id="apollo-client">Apollo Client and Angular</h2>
 
 The `apollo-client` npm module is a JavaScript client for GraphQL. The goal of the package is to be:
+|Test|kkj|
+|---|--|
+|kj|kjj|
 
 1. **Incrementally adoptable**, so that you can drop it into any JavaScript app.
 2. **Simple to get started with**, you can just read one guide and get going.
